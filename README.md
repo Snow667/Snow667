@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Snow</h1>
 <h3 align="center">A passionate self-taught developer from French</h3>
 
+<img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+
 - 🔭 I’m currently working on **my futur app**
 
 - 🌱 I’m currently learning **Python**
